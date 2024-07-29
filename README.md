@@ -35,6 +35,31 @@ import boto3
 import botocore
 ```
 
+## Chapterwise Notebooks
+---
+
+| Chapter No | Notebook Name                                | Notebooks Link                                           |
+|------------|----------------------------------------------|------------------------------------------------------------------------|
+| Chapter 2  | AmazonBedrock_ConverseAPI.ipynb              | [📓 AmazonBedrock_ConverseAPI.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter02/AmazonBedrock_ConverseAPI.ipynb)              |
+| Chapter 2  | AmazonBedrock_ConverseStreamAPI.ipynb        | [📓 AmazonBedrock_ConverseStreamAPI.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter02/AmazonBedrock_ConverseStreamAPI.ipynb)  |
+| Chapter 5  | AmazonBedrockRetrieveAPI.ipynb               | [📓 AmazonBedrockRetrieveAPI.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter05/AmazonBedrockRetrieveAPI.ipynb)               |
+| Chapter 5  | AmazonBedrockRetrieveAndGenerateAPI.ipynb    | [📓 AmazonBedrockRetrieveAndGenerateAPI.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter05/AmazonBedrockRetrieveAndGenerateAPI.ipynb) |
+| Chapter 6  | AI21JurassicEmailSample.ipynb                | [📓 AI21JurassicEmailSample.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter06/AI21JurassicEmailSample.ipynb)                |
+| Chapter 6  | GeneratingText.ipynb                         | [📓 GeneratingText.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter06/GeneratingText.ipynb)                         |
+| Chapter 6  | SummarizingText.ipynb                        | [📓 SummarizingText.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter06/SummarizingText.ipynb)                        |
+| Chapter 7  | AmazonBedrockQASample.ipynb                  | [📓 AmazonBedrockQASample.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter07/AmazonBedrockQASample.ipynb)                  |
+| Chapter 7  | RAG_BedrockwithLangChain.ipynb               | [📓 RAG_BedrockwithLangChain.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter07/RAG_BedrockwithLangChain.ipynb)               |
+| Chapter 7  | SmallDocumentIngestion_BedrockwithLangChain.ipynb | [📓 SmallDocumentIngestion_BedrockwithLangChain.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter07/SmallDocumentIngestion_BedrockwithLangChain.ipynb) |
+| Chapter 8  | CodeGenerationAmazonBedrock.ipynb            | [📓 CodeGenerationAmazonBedrock.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter08/CodeGenerationAmazonBedrock.ipynb)            |
+| Chapter 8  | CodeTranslationAmazonBedrock.ipynb           | [📓 CodeTranslationAmazonBedrock.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter08/CodeTranslationAmazonBedrock.ipynb)           |
+| Chapter 8  | EntityExtractionAmazonBedrock.ipynb          | [📓 EntityExtractionAmazonBedrock.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter08/EntityExtractionAmazonBedrock.ipynb)          |
+| Chapter 8  | EntityExtractionAmazonTitan.ipynb            | [📓 EntityExtractionAmazonTitan.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter08/EntityExtractionAmazonTitan.ipynb)            |
+| Chapter 8  | EntityExtractionAnthropicClaude.ipynb        | [📓 EntityExtractionAnthropicClaude.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter08/EntityExtractionAnthropicClaude.ipynb)        |
+| Chapter 9  | WatermarkDetection.ipynb                     | [📓 WatermarkDetection.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter09/WatermarkDetection.ipynb)                     |
+| Chapter 10 | LangChainAgentswithAmazonBedrock.ipynb       | [📓 LangChainAgentswithAmazonBedrock.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter10/LangChainAgentswithAmazon%20Bedrock.ipynb)       |
+| Chapter 12 | InvocationWithGuardrails.ipynb               | [📓 InvocationWithGuardrails.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter12/InvocationWithGuardrails.ipynb)               |
+```
+
 **Following is what you need for this book:**
 This book is for generalist application engineers, solution engineers and architects, technical managers, ML advocates, data engineers, and data scientists looking to either innovate within their organization or solve business use cases using generative AI. A basic understanding of AWS APIs and core AWS services for machine learning is expected.
 
