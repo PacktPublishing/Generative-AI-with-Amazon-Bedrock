@@ -38,7 +38,7 @@ import botocore
 ## Chapterwise Notebooks
 ---
 
-| Chapter No | Notebook Name                                | Notebook Link with Icon                                                |
+| Chapter No | Notebook Name                                | Notebooks Link                                           |
 |------------|----------------------------------------------|------------------------------------------------------------------------|
 | Chapter 2  | AmazonBedrock_ConverseAPI.ipynb              | [📓 AmazonBedrock_ConverseAPI.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter02/AmazonBedrock_ConverseAPI.ipynb)              |
 | Chapter 2  | AmazonBedrock_ConverseStreamAPI.ipynb        | [📓 AmazonBedrock_ConverseStreamAPI.ipynb](https://github.com/PacktPublishing/Generative-AI-with-Amazon-Bedrock/blob/main/Chapter02/AmazonBedrock_ConverseStreamAPI.ipynb)  |
